@@ -1,0 +1,24 @@
+[{Thanks for using this asset pack}]
+==========================
+
+assets contains:-
+=============
+nature_items:-
+(1)tree
+(2)bush
+(3)dry_ground
+(4)green_ground
+-----------------------
+cars:-
+(1)F1_car_set
+------------------------
+roads:-
+(1)straight_road
+(2)corner_left
+(3)corner_right
+------------------------
+road_marker:-
+(1)start_line_mark
+(2)finish_line_mark
+--------------------------
+Full_set_PNG

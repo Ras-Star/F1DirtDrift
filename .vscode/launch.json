@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Unity MCP Connection",
+            "type": "node",
+            "request": "launch",
+            "env": {
+                "MCP_UNITY_HOST": "localhost",
+                "MCP_UNITY_PORT": "8090"
+            }
+        },
+        {
+            "name": "Attach to Unity",
+            "type": "vstuc",
+            "request": "attach"
+        }
+    ]
+}
